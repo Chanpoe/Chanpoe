@@ -1,0 +1,32 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # UTC+8 时区的每日 0:00 对应于 UTC 的前一天 16:00
+    - cron: "0 16 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # this action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: Chanpoe/Chanpoe # optional
+          ### content
+          BLOCKS: █  # optional ░▒▓█⣀⣄⣤⣦⣶⣷⣿可以发挥创造力-#=>
+          CODE_LANG: python  # optional
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
+          AUTHOR_NAME: Chanpoe # optional
+          AUTHOR_EMAIL: chanpoezhang@gmail.com # optional
