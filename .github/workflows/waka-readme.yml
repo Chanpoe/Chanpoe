@@ -20,8 +20,13 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: Chanpoe/Chanpoe # optional
           ### content
+          SHOW_TITLE: true # optional
           BLOCKS: █  # optional ░▒▓█⣀⣄⣤⣦⣶⣷⣿可以发挥创造力-#=>
           CODE_LANG: python  # optional
+          TIME_RANGE: last_7_days # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
