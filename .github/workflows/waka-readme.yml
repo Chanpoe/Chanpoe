@@ -24,6 +24,7 @@ jobs:
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"  # 更新wakatime的时间格式
           SHOW_LINES_OF_CODE: "True"  # 代码行数
           SHOW_TOTAL_CODE_TIME: "True"  # 编码时间
+          SHOW_PROJECTS: "False"  # 项目数据统计（不是很准）
           ### commit
           COMMIT_USERNAME: "GitHubActionBot"
           COMMIT_EMAIL: "action-bot@github.com"
