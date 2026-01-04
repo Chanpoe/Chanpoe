@@ -1,7 +1,25 @@
 ![Chanpoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanpoe&show_icons=true&count_private=true&theme=cobalt)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C424%20hrs%2035%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.88%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    23 hrs 38 mins      █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   23 hrs 38 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      19 hrs 37 mins      █████████████████████░░░░   82.99 % 
+Windows                  4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -15,5 +33,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/01/03 16:14:53 UTC
+ Last Updated on 2026/01/04 16:14:42 UTC
 <!--END_SECTION:waka-->
