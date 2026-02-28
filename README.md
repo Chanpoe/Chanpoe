@@ -1,7 +1,7 @@
 ![Chanpoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chanpoe&show_icons=true&count_private=true&theme=cobalt)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C633%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C641%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -11,15 +11,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 49 mins      █████████████████████████   99.65 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other                    24 hrs 41 mins      █████████████████████████   99.63 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 53 mins      █████████████████████████   100.00 % 
+Chrome                   24 hrs 47 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 17 mins      ███████████████████████░░   90.58 % 
-Windows                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Mac                      23 hrs 11 mins      ███████████████████████░░   93.58 % 
+Windows                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
 ```
 
 **I Mostly Code in Python** 
@@ -34,5 +34,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2026/02/27 16:24:16 UTC
+ Last Updated on 2026/02/28 16:15:56 UTC
 <!--END_SECTION:waka-->
